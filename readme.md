@@ -9,7 +9,7 @@ ___
 ## ❗️❗️❗️ Check your code with the [CHECKLIST](https://github.com/mate-academy/layout_html-form/blob/master/checklist.md) before ❗️❗️❗️
 
 ## The task:
-Create HTML page with form. On form submit send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`
+Create HTML page with form On form submit send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`
 
 ![screenshot](./references/form-example.png)
 
@@ -40,7 +40,7 @@ Create HTML page with form. On form submit send form data to `https://mate-acade
 - Age should be at least `1` and at max `100` with a default value of `12`
 - The email field should have placeholder value: `email@example.com`.
 - Text fields should have `autocomplete="off"`.
-- `Submit` button should have a `type="submit"` 
+- `Submit` button should have a `type="submit"`
 - Vertical distance between inputs should be `10px`
 - Vertical distance between groups should be `20px`
 - Any other styles should be browser default
